@@ -1,6 +1,6 @@
-#📦 Digital Inventory Control System through QR Scanning and Mobile Devices
+#📦Digital Inventory Control System through QR Scanning and Mobile Devices
 
-##Description
+## Description
 This project consists of the development of a digital system for inventory management using QR scanning technology and mobile devices. The objective is to optimize the control of incoming and outgoing items and the registration of products, reducing human errors and improving efficiency in warehouse processes.
 
 ##🎯Objective 
